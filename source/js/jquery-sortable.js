@@ -29,7 +29,7 @@
 
 !function ( $, window, undefined){
   var eventNames,
-  pluginName = 'sortable',
+  pluginName = '_sortable',
   containerDefaults = {
     // If true, items can be dragged from this container
     drag: true,
